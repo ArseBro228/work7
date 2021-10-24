@@ -1,0 +1,83 @@
+.mom{
+    background-color: blue;
+    width: 800px;
+    height: 600px;
+    margin: auto;
+}
+.text1{
+    background-color: chartreuse;
+    width: 100%;
+    height: 200px;
+}
+.text2{
+    background: crimson;
+    width: 100%;
+    height: 200px;
+}
+.text3{
+    background-color: darkorange;
+    width: 100%;
+    height: 200px;
+}
+.GrandDad{
+    background-color: mediumblue;
+    width: 800px;
+    height: 600px;
+    margin: 20px auto;
+}
+.row1{
+    background-color: mediumorchid;
+    width: 100%;
+    height: 200px;
+    display: flex;
+}
+.row2{
+    background-color: mediumseagreen;
+    width: 100%;
+    height: 200px;
+}
+.row3{
+    background-color: blue;
+    width: 100%;
+    height: 200px;
+}
+.grow1{
+    background-color: peru;
+    width: 33.3%;
+    height: 100%;
+}
+.grow2{
+    background-color: orangered;
+    width: 33.3%;
+    height: 100%;
+}
+.grow4{
+    background-color: paleturquoise;
+    width: 50%;
+    height: 100%;
+}
+.grow3{
+    background-color: yellowgreen;
+    width: 33.3%;
+    height: 100%;
+}
+.sister{
+    background-color: gold;
+    height: 600px;
+    width: 800px;
+    margin: 20px auto;
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+    align-items: center;
+}
+.sister div{
+    background-color: green;
+    width: 150px;
+    height: 150px;
+}
+h1{
+    color: black;
+    text-align: center  ;
+}
+a{background-color: darkgray;text-decoration: none;}
